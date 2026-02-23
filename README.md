@@ -126,15 +126,6 @@ The best-performing model (Model D) achieved **91.0% test accuracy**, indicating
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning (learning rate, dropout rate, filter sizes)
-- Data augmentation for improved generalization
-- EarlyStopping and ModelCheckpoint for optimal training control
-- Confusion matrix analysis for class-specific error diagnosis
-- Model compression (quantization/pruning) for deployment
-
----
 
 ## How to Run
 
